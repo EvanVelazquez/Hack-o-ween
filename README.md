@@ -1,14 +1,7 @@
-# Hack-o-ween
-Using Python:
-Open your terminal and navigate to the project folder:
-bash
-Copy code
-cd path/to/witchs-riddle
-Start a local server:
-bash
-Copy code
-python3 -m http.server 8080
-Open your browser and visit:
-arduino
-Copy code
-http://localhost:8080
+ How to Download and Run
+Option 1: Download ZIP from GitHub
+Visit the repository:
+https://github.com/your-username/witchs-riddle
+Click the "Code" button and select "Download ZIP".
+Extract the ZIP file to a folder on your computer.
+Open the extracted folder and double-click index.html to open it in your browser.
